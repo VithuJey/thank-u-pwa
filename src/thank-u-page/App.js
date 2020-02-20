@@ -37,7 +37,7 @@ function App() {
 
               <p class="m2-txt1 p-b-30 text-justify">
                 I’m so grateful to be working with you. Thanks for putting your
-                trust on me. Please keep me in mind for future projects. 🤝
+                trust on me. Please keep me in mind for future projects and share a positive feedback too. 🤝
               </p>
             </div>
           </div>

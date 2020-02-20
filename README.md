@@ -1,1 +1,1 @@
-A thank you page for clients.
+A thank you page PWA for clients.
