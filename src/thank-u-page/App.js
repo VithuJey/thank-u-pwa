@@ -16,7 +16,7 @@ function App() {
       <div class="flex-w flex-str size1 overlay1">
         <div class="flex-w flex-col-sb wsize1 bg0 p-l-65 p-t-37 p-b-50 p-r-80 respon1">
           <div class="wrappic1">
-            <a href="index.html">
+            <a href="https://thank-u.netlify.com/">
               <h3
                 class="m2-txt1 respon3"
                 Style="font-size: 3rem; color: black;"
